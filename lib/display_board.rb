@@ -2,5 +2,7 @@
 # out the current state.
 board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
 def display_board(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
-
+  puts
+  puts
+  puts
 end
